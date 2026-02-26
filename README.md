@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diprid
-- 👀 I’m interested in language programming Python
+- 👀 I’m interested in language programming Python, C#, C++
 - 🌱 I’m currently learning 8th grade
 - 📫 How to reach me: My email: DIPRIDBs@gmail.com
 
